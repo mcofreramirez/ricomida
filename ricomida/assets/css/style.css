@@ -1,0 +1,85 @@
+body {
+    font-family: "Cabin", sans-serif;
+    color: #373A3C;
+  }
+  
+  .nav_titulo {
+    font-family: "Lobster", cursive;
+    color: white;
+    font-size: 37pt;
+  }
+  
+  .titulo_main {
+    text-align: left;
+    font-size: 42pt;
+    padding-right: 15%;
+  }
+  
+  .boton_main {
+    border: 1px solid #DDDDDD;
+  
+  
+  }
+
+  header {
+    padding-top: 2.2rem;
+}
+
+  .carousel-indicators li {
+    top: 60px;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: #DDDDDD;
+}
+
+.carousel-indicators .active {
+    background-color: #373A3C;
+}
+  
+.rowRecipe {
+    border-bottom: 1.5px solid #373A3C;
+    padding-bottom: 60px;
+}
+
+.recipe li {
+    list-style: none;
+    font-size: 20px;
+}
+
+.ingredientes,
+.preparacion {
+    display: inline-block;
+    border-bottom: 1.5px solid #373A3C;
+}
+
+
+span {
+    font-family: 'Lobster', cursive;
+}
+
+.icono {
+    font-size: 37px;
+    padding: 0;
+}
+
+#newsletterFinal {
+    background-color: #dc3545;
+    padding: 6rem 0;
+    color: #ffffff;
+}
+
+#newsletterFinal h2 {
+    font-size: 30px;
+}
+#newsletterFinal h4 {
+    font-size: 20px;
+}
+
+footer {
+background-color: #373A3C;
+color: #ffffff;
+text-decoration: none;
+font-family: 'Lobster', cursive;
+
+}
